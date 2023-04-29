@@ -1,10 +1,13 @@
 # Library-Mangement-System
 
+
+
   Introduction
 _______________________________________________________________________________________________________________________________________________________________________
 This is Library Management System using Java and MySQL with swing components.
 
 This project is used to monitor books, add them, update information in it, search for the suitable one, issue it, and return it to the respective added student when needed. 
+
 
 
   Core Features
@@ -26,6 +29,8 @@ ________________________________________________________________________________
    •	Search issued book by Student Id 
 
 
+
+
   Modules
 _______________________________________________________________________________________________________________________________________________________________________ 
    •	Admin login
@@ -44,8 +49,12 @@ ________________________________________________________________________________
 
    •	Logout
 
+
+
+
+
   Environment and Requirements
-  _______________________________________________________________________________________________________________________________________________________________________
+  ______________________________________________________________________________________________________________________________________________________________________
    •	Programming Language: JAVA with Swings
 
    •	MySQL Conncector: MySQL JConnector 5.1.23(JDBC Driver) https://dev.mysql.com/downloads/connector/j/
